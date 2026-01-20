@@ -50,7 +50,7 @@ Computer Science and Technology Student...<br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriharsha7653&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriharsha7653&show_icons=true&theme=tokyonight"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharsha7653&layout=compact&theme=tokyonight"/>
 </p>
 
