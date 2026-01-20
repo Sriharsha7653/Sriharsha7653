@@ -10,6 +10,9 @@ Computer Science and Technology Student...<br>
 ### 🔗 Connect with Me
 - 💼 LinkedIn: [Sriharsha Manoharan](https://www.linkedin.com/in/sriharsha-manoharan)
 ## 🛠️ Technical Skills
+## 📄 Resume
+
+[![📄Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1jMAJQ6VOCzJNTA2xiVxK3bLD1wHoqX2E/view?usp=sharing)
 
 ### 💻 Languages
 <p>
