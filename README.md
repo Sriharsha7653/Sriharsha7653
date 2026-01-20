@@ -1,11 +1,11 @@
 # Hi there It's me Sriharsha  👋
-Computer Science and Technology Student ...
- 🔭 I’m currently working on Full Stack Development Using Java☕ and AWS☁️
- 🌱 I’m currently learning DSA
- 👯 I’m looking to collaborate on Microservices Development
- 💬 Ask me about Java Development| Problem Solving
- 📫 How to reach me sriharsha7653@gmail.com
- 😄 Pronouns: He/Him
+Computer Science and Technology Student...<br>
+ 🔭 I’m currently working on Full Stack Development Using Java☕ and AWS☁️<br>
+ 🌱 I’m currently learning DSA<br>
+ 👯 I’m looking to collaborate on Microservices Development<br>
+ 💬 Ask me about Java Development| Problem Solving<br>
+ 📫 How to reach me sriharsha7653@gmail.com<br>
+ 😄 Pronouns: He/Him<br>
 
 ### 🔗 Connect with Me
 - 💼 LinkedIn: [Sriharsha Manoharan](https://www.linkedin.com/in/sriharsha-manoharan)
