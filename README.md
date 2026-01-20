@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi there It's me Sriharsha  👋
+Computer Science and Technology Student
+ 🔭 I’m currently working on Full Stack Development Using Java☕ and AWS☁️
+ 🌱 I’m currently learning DSA
+ 👯 I’m looking to collaborate on Microservices Development
+ 💬 Ask me about Java Development| Problem Solving
+ 📫 How to reach me sriharsha7653@gmail.com
+ 😄 Pronouns: He/Him
 
+### 🔗 Connect with Me
+- 💼 LinkedIn: [Sriharsha Manoharan](https://www.linkedin.com/in/sriharsha-manoharan)
 <!--
 **Sriharsha7653/Sriharsha7653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
