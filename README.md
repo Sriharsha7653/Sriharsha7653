@@ -57,6 +57,8 @@ Computer Science and Technology Student...<br>
   <img src="https://github-readme-stats.vercel.app/api?username=Sriharsha7653&show_icons=true&theme=tokyonight"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharsha7653&layout=compact&theme=tokyonight"/>
 </p>
-
+<p >
+  <img src="https://streak-stats.demolab.com?user=Sriharsha7653&theme=github-dark" />
+</p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sriharsha7681?theme=dark&font=Almarai&ext=heatmap)
