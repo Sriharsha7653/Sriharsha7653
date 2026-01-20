@@ -49,7 +49,7 @@ Computer Science and Technology Student...<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=Sriharsha7653&show_icons=true&theme=tokyonight"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharsha7653&layout=compact&theme=tokyonight"/>
 </p>
