@@ -60,7 +60,7 @@ Computer Science and Technology Student...<br>
   <img src="https://github-readme-stats.vercel.app/api?username=Sriharsha7653&show_icons=true&theme=tokyonight"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharsha7653&layout=compact&theme=tokyonight"/>
 </p>
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=Sriharsha7653&theme=github-dark" />
 </p>
 
