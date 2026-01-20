@@ -1,5 +1,5 @@
 # Hi there It's me Sriharsha  👋
-Computer Science and Technology Student
+Computer Science and Technology Student ...
  🔭 I’m currently working on Full Stack Development Using Java☕ and AWS☁️
  🌱 I’m currently learning DSA
  👯 I’m looking to collaborate on Microservices Development
