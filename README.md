@@ -12,7 +12,7 @@ Computer Science and Technology Student...<br>
 ## 🛠️ Technical Skills
 ## 📄 Resume
 
-[![📄Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1jMAJQ6VOCzJNTA2xiVxK3bLD1wHoqX2E/view?usp=sharing)
+[![📄Resume](https://drive.google.com/file/d/17b2DqxdwlRQ30Vl4FWz7S-UpcP0XbYIf/view?usp=sharing)
 
 ### 💻 Languages
 <p>
