@@ -12,7 +12,8 @@ Computer Science and Technology Student...<br>
 ## 🛠️ Technical Skills
 ## 📄 Resume
 
-[![📄Resume](https://drive.google.com/file/d/17b2DqxdwlRQ30Vl4FWz7S-UpcP0XbYIf/view?usp=sharing)
+[📄 View My Resume](https://drive.google.com/file/d/17b2DqxdwlRQ30Vl4FWz7S-UpcP0XbYIf/view?usp=drive_link)
+
 
 ### 💻 Languages
 <p>
