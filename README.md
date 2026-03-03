@@ -10,7 +10,7 @@ Computer Science and Technology Student...<br>
 ### 🔗 Connect with Me
 - 💼 LinkedIn: [Sriharsha Manoharan](https://www.linkedin.com/in/sriharsha-manoharan)
 ## 🛠️ Technical Skills
-Portfolio:[Sriharsha's Portfolio](https://www.linkedin.com/in/sriharsha-manoharan](https://sriharshaportfolioo.netlify.app/)
+🌐Portfolio:[Sriharsha's Portfolio](https://sriharshaportfolioo.netlify.app/)
 ## 📄 Resume
 
 [📄 View My Resume](https://drive.google.com/file/d/17b2DqxdwlRQ30Vl4FWz7S-UpcP0XbYIf/view?usp=drive_link)
